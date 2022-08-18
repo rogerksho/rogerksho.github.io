@@ -4,23 +4,39 @@
 }
 
 .header {
-    width: 65%;
+    width:100%;
+    max-width: 900px;
     text-align: center;
-    padding: 3vw;
-    position: absolute;
+    padding-top: 3vw;
+    margin: 0 auto;
+    position: center;
     left: 50%;
-    margin-left: -32.5%;
 }
 
 .name {
-    padding-bottom: 1.5%;
+    padding-bottom: 0%;
+}
+
+.intro {
+    font-size: 15px;
+    padding-left: 5%;
+}
+
+@media (max-width:900px) {
+    .intro {
+        font-size: 16px;
+    }
+
+    .header {
+        width: 90%;
+    }
 }
 
 .face {
     object-fit: contain;
-    padding: 5%;
-    flex: 15%;
+    padding-left: 3%;
     float: right;
+    width: 25%;
 }
 
 .intro-paragraph-div {
@@ -30,3 +46,43 @@
 .intro-div {
     display: flex;
   }
+
+.projects-parent {
+    width: 100%;
+    max-width: 1200px;
+    padding: 3vw;
+    margin: 0 auto;
+    position: center;
+    left: 50%;
+}
+
+.project-item {
+    padding: 2vw 0vw 2vw 0vw;
+    display: flex;
+}
+
+.project-item-content {
+    padding-left: 15px;
+    text-align: left;
+    float: right;
+}
+
+.project-gif {
+    width: 180px;
+    height: auto;
+    float: left;
+}
+
+.project-item-title {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.project-item-list {
+    padding-top: 10px;
+}
+
+.separator {
+    padding-left: 20px;
+    padding-right: 20px;
+}

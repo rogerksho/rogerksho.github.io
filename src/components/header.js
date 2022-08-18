@@ -6,16 +6,12 @@ function Header() {
     return (
         <div className="header">
           <h1 className="name">Roger Ho</h1>
+          <p style={{textAlign: 'center', paddingBottom: '1.5%'}}>rogerho [at] umich.edu | <a href="https://www.linkedin.com/in/roger-ho-576548199/">LinkedIn</a> | <a href="https://github.com/rogerksho">Github</a></p>
           <div className="intro-div">
             <div className="intro-paragraph-div">
             <p className="intro">I am a rising senior (undergraduate) at the University of Michigan, 
             majoring in mechanical engineering and minoring in computer science. With experience in both 
             software and hardware, I aim to develop a well rounded skillset to realize sophisticated mechatronic systems.
-            </p>
-            <p className="intro">
-            One of my interests include understanding complex yet interesting systems and attempting to reconstruct
-            them from ground up. Another interest of mine is automating processes and daily tasks, especially those
-            involving growing food. See below section "Projects".
             </p>
             <p className="intro">
             I am currently working on the design of a high performance (large range, high speed, nanometric motion quality)
