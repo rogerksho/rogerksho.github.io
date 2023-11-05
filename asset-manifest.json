@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.1ff40b6a.css",
-    "main.js": "/static/js/main.1331f967.js",
+    "main.js": "/static/js/main.02aacefb.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/face_japan.jpg": "/static/media/face_japan.031b159d4a787e7c56de.jpg",
     "static/media/ultrasonic.gif": "/static/media/ultrasonic.2e30ed3a3b93a6496a91.gif",
     "static/media/planter.png": "/static/media/planter.09532d77eb2f873b448f.png",
     "static/media/chamber.jpg": "/static/media/chamber.3a3c18a735d4c1b76ef9.jpg",
     "static/media/cloud_chamber.png": "/static/media/cloud_chamber.ead86445868d4db5f112.png",
+    "static/media/face_japan_cropped.png": "/static/media/face_japan_cropped.f0995892a1ed3d3cd6aa.png",
     "static/media/Bitcoin.png": "/static/media/Bitcoin.d3c43a208263e63447a7.png",
     "index.html": "/index.html",
     "main.1ff40b6a.css.map": "/static/css/main.1ff40b6a.css.map",
-    "main.1331f967.js.map": "/static/js/main.1331f967.js.map",
+    "main.02aacefb.js.map": "/static/js/main.02aacefb.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ff40b6a.css",
-    "static/js/main.1331f967.js"
+    "static/js/main.02aacefb.js"
   ]
 }
