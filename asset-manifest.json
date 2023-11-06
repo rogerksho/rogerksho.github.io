@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.a58b7479.chunk.css",
-    "main.js": "/static/js/main.b741334e.chunk.js",
-    "main.js.map": "/static/js/main.b741334e.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.f27e42ef.js",
-    "runtime~main.js.map": "/static/js/runtime~main.f27e42ef.js.map",
-    "static/js/2.83e2faca.chunk.js": "/static/js/2.83e2faca.chunk.js",
-    "static/js/2.83e2faca.chunk.js.map": "/static/js/2.83e2faca.chunk.js.map",
-    "static/js/3.bd282c0b.chunk.js": "/static/js/3.bd282c0b.chunk.js",
-    "static/js/3.bd282c0b.chunk.js.map": "/static/js/3.bd282c0b.chunk.js.map",
+    "main.js": "/static/js/main.3fedd042.chunk.js",
+    "main.js.map": "/static/js/main.3fedd042.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.3388e78b.js",
+    "runtime~main.js.map": "/static/js/runtime~main.3388e78b.js.map",
+    "static/js/2.74bb8550.chunk.js": "/static/js/2.74bb8550.chunk.js",
+    "static/js/2.74bb8550.chunk.js.map": "/static/js/2.74bb8550.chunk.js.map",
+    "static/js/3.bd0f349a.chunk.js": "/static/js/3.bd0f349a.chunk.js",
+    "static/js/3.bd0f349a.chunk.js.map": "/static/js/3.bd0f349a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c3033bf30d80e31ff38bb3616b0e9406.js": "/precache-manifest.c3033bf30d80e31ff38bb3616b0e9406.js",
+    "precache-manifest.362f39a23f24436372e922ae16da0a9a.js": "/precache-manifest.362f39a23f24436372e922ae16da0a9a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.a58b7479.chunk.css.map": "/static/css/main.a58b7479.chunk.css.map",
     "static/media/Bitcoin.png": "/static/media/Bitcoin.799363e0.png",
@@ -18,6 +18,7 @@
     "static/media/chamber.jpg": "/static/media/chamber.c24c776f.jpg",
     "static/media/cloud_chamber.png": "/static/media/cloud_chamber.2a68b1ff.png",
     "static/media/face_japan_cropped.png": "/static/media/face_japan_cropped.48bb6d9f.png",
+    "static/media/hipernap.gif": "/static/media/hipernap.93144fba.gif",
     "static/media/planter.png": "/static/media/planter.34a757da.png",
     "static/media/ultrasonic.gif": "/static/media/ultrasonic.8ba85d7a.gif"
   }
