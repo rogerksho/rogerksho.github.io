@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.a58b7479.chunk.css",
-    "main.js": "/static/js/main.3e932e89.chunk.js",
-    "main.js.map": "/static/js/main.3e932e89.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.3efdf948.js",
-    "runtime~main.js.map": "/static/js/runtime~main.3efdf948.js.map",
-    "static/js/2.cf9cc1de.chunk.js": "/static/js/2.cf9cc1de.chunk.js",
-    "static/js/2.cf9cc1de.chunk.js.map": "/static/js/2.cf9cc1de.chunk.js.map",
-    "static/js/3.62d5139d.chunk.js": "/static/js/3.62d5139d.chunk.js",
-    "static/js/3.62d5139d.chunk.js.map": "/static/js/3.62d5139d.chunk.js.map",
+    "main.js": "/static/js/main.d85b757e.chunk.js",
+    "main.js.map": "/static/js/main.d85b757e.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.66990ebe.js",
+    "runtime~main.js.map": "/static/js/runtime~main.66990ebe.js.map",
+    "static/js/2.f8353139.chunk.js": "/static/js/2.f8353139.chunk.js",
+    "static/js/2.f8353139.chunk.js.map": "/static/js/2.f8353139.chunk.js.map",
+    "static/js/3.2ebb6cf0.chunk.js": "/static/js/3.2ebb6cf0.chunk.js",
+    "static/js/3.2ebb6cf0.chunk.js.map": "/static/js/3.2ebb6cf0.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d643c2cf98c4bdbc0dc5b45405bf379c.js": "/precache-manifest.d643c2cf98c4bdbc0dc5b45405bf379c.js",
+    "precache-manifest.b904b442d4a6aa9ccc9f0f7556feaffc.js": "/precache-manifest.b904b442d4a6aa9ccc9f0f7556feaffc.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.a58b7479.chunk.css.map": "/static/css/main.a58b7479.chunk.css.map",
     "static/media/Bitcoin.png": "/static/media/Bitcoin.799363e0.png",
@@ -21,6 +21,7 @@
     "static/media/hipernap.gif": "/static/media/hipernap.93144fba.gif",
     "static/media/microfluidics.png": "/static/media/microfluidics.5c674684.png",
     "static/media/planter.png": "/static/media/planter.34a757da.png",
-    "static/media/ultrasonic.gif": "/static/media/ultrasonic.8ba85d7a.gif"
+    "static/media/ultrasonic.gif": "/static/media/ultrasonic.8ba85d7a.gif",
+    "static/media/voicecoil.gif": "/static/media/voicecoil.a6cca7dc.gif"
   }
 }
