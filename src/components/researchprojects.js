@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "../styles.css";
-import hipernap_gif from "../img/hipernap.gif"
+import hipernap_gif from "../img/KLA_Logo.jpg"
 import microfluidic from "../img/microfluidics.png"
 import placeholder_pic from "../img/placeholder.jpeg"
 
@@ -15,13 +15,13 @@ function Projects() {
                 </p>
 
                 <div className="project-item">
-                    <img className="project-gif" src={placeholder_pic}/>
+                    <img className="project-gif-fitted" src={hipernap_gif}/>
                     <div className="project-item-content">
                         <h4 className="project-item-title">high performance flexure-based nanopositioning system</h4>
-                        <h6 className="project-item-title"><i>University of Michigan, Prof. Shorya Awtar</i></h6>
+                        <h6 className="project-item-title"><i>University of Michigan (partnered with KLA), Prof. Shorya Awtar</i></h6>
                         <ul>
-                            <li className="project-item-list">Experimentally characterized a novel strucutral augmentation on flexure mechanisms that improves out-of-plane bearing stiffnesses while keeping in-plane actuation stiffnesses low.</li>
-                            <li className="project-item-list">Designed a flexure-based XY nano-positioning system and carried the project through manufacturing,
+                            <li className="project-item-list">Experimentally characterized a novel augmentation on flexure mechanisms that improves out-of-plane bearing stiffnesses while keeping in-plane actuation stiffnesses low.</li>
+                            <li className="project-item-list">Realized the previously mentioned augmentation in a XY nano-positioning system and carried the project through design, manufacturing, and early-stage testing,
                             assembly, and debugging, resulting in patents and publications under preparation</li>
                             <li className="project-item-list">Information is kept vague at this time prior to patents being filed.</li>
                         </ul>

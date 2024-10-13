@@ -103,6 +103,16 @@
     object-fit: cover;
 }
 
+.project-gif-fitted {
+    width: 180px;
+    height: auto;
+    float: left;
+
+    min-height: 200px;
+    height:100%;
+    object-fit: contain;
+}
+
 .project-item-title {
     padding-left: 10px;
     padding-right: 10px;

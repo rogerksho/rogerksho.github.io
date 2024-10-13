@@ -6,8 +6,7 @@ function Patents() {
     return (
         <div className="projects-parent">
             <ol type="1">
-            <li>Rath, S., <b>Ho, R.</b>, and Awtar, S., 2023, “Fabrication of Novel XY Flexure Mechanism based Motion 
-            System”, (in preparation)</li>
+            <li>Shorya Awtar, Siddharth Rath, <b>Roger Ho</b>. 2024. Method of Manufacture and Assembly of XY Flexure Mechanism Assembly. U.S. Patent Application 18/605411, filed March 14, 2024. Patent pending.</li>
             </ol>
         </div>
         

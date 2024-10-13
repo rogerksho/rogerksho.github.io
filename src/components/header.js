@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "../styles.css";
-import face from "../img/face_japan_cropped.png"
+import face from "../img/toronto_face_cropped.JPG"
 
 import resumepdf from '../resume/RogerCVDec2023.pdf'
 import Button from 'react-bootstrap/Button';
@@ -25,16 +25,15 @@ function Header() {
 
 
             <div className="intro-paragraph-div">
-              <p className="intro">I am a recent graduate of the University of Michigan, 
-              majoring in mechanical engineering and minoring in computer science. My passions and interests include precision machine design, 
-              levitation/tweezers of all kinds (electromagnetic, optical, acoustic), and yummy food. In general, I like to build systems that 
-              accomplish what a human cannot, i.e. move precisely and accurately, or suspend/levitate things in the air (jedi and sith don't count)
+              <p className="intro">I am a recent graduate of the University of Michigan, where I
+              majored in Mechanical Engineering and minoring in Computer Science. My passions and interests revolve around all things precision, including precision machine design, 
+              levitators/tweezers, precise manipulators, and just about any shiny metallic thing that are highly precise and/or accurate. In general, I like to work on technologies that 
+              that have societally relevant, immediate, practical applications.
               </p>
               <p className="intro">
-              I currently develop affordable robotic surgical devices at a stealth-mode startup
-              as mechatronics lead. During my time at the university, I worked on the design and testing of a flexure-based high performance (large range, high speed, high precision and accuracy)
+              I currently work as a Design Engineer at a stealth-mode robotics startup. During my time at the university, I worked on the design and testing of a flexure-based high-performance (large range, high speed, high precision and accuracy)
               nanopositioning system (HIPERNAP) under Professor <a href="https://me.engin.umich.edu/people/faculty/shorya-awtar/">Shorya Awtar</a> at the <a href="https://psdl.engin.umich.edu/">
-              Precision Systems Design Laboratory</a> at the University of Michigan.
+              Precision Systems Design Laboratory</a>.
               </p>
               </div>
 
