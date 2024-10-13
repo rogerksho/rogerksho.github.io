@@ -4,6 +4,8 @@ import "../styles.css";
 import Projects from './projects'
 import Patents from './patents'
 import ResearchProjects from './researchprojects'
+import Publications from './publications'
+import Food from './food'
 
 import Accordion from 'react-bootstrap/Accordion';
 
@@ -29,16 +31,23 @@ function Content() {
             </Accordion.Item>
 
             <Accordion.Item eventKey="3">
+                <Accordion.Header>publications</Accordion.Header>
+                <Accordion.Body>
+                    <Publications/>
+                </Accordion.Body>
+            </Accordion.Item>
+
+            <Accordion.Item eventKey="4">
                 <Accordion.Header>patents</Accordion.Header>
                 <Accordion.Body>
                     <Patents/>
                 </Accordion.Body>
             </Accordion.Item>
 
-            <Accordion.Item eventKey="4">
+            <Accordion.Item eventKey="5">
                 <Accordion.Header>food</Accordion.Header>
                 <Accordion.Body>
-                    <Patents/>
+                    <Food />
                 </Accordion.Body>
             </Accordion.Item>
             

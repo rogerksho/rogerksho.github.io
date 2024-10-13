@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "../styles.css";
 import face from "../img/face_japan_cropped.png"
 
-import resumepdf from '../resume/RogerResumeNov23.pdf'
+import resumepdf from '../resume/RogerCVDec2023.pdf'
 import Button from 'react-bootstrap/Button';
 
 function Header() {
@@ -18,7 +18,7 @@ function Header() {
                 
                 <a href={resumepdf} without rel="noopener noreferrer" target="_blank">
                     <button trailingIcon="picture_as_pdf" label="resume">
-                    ⤓ resume
+                    ⤓ CV
                     </button>
                 </a>
           </div>
@@ -26,12 +26,14 @@ function Header() {
 
             <div className="intro-paragraph-div">
               <p className="intro">I am a recent graduate of the University of Michigan, 
-              majoring in mechanical engineering and minoring in computer science. My passions and interests include precision machine design, electromagnetic actuators and sensors, and yummy food.
+              majoring in mechanical engineering and minoring in computer science. My passions and interests include precision machine design, 
+              levitation/tweezers of all kinds (electromagnetic, optical, acoustic), and yummy food. In general, I like to build systems that 
+              accomplish what a human cannot, i.e. move precisely and accurately, or suspend/levitate things in the air (jedi and sith don't count)
               </p>
               <p className="intro">
-              I currently work at a stealth-mode surgical robotics startup
-              as a mechatronics engineer. During my time at the university, I previously worked on the design and testing of a flexure-based high performance (large range, high speed, nanometric motion quality)
-              nanopositioning stage (HIPERNAP) under Professor <a href="https://me.engin.umich.edu/people/faculty/shorya-awtar/">Shorya Awtar</a> at the <a href="https://psdl.engin.umich.edu/">
+              I currently develop affordable robotic surgical devices at a stealth-mode startup
+              as mechatronics lead. During my time at the university, I worked on the design and testing of a flexure-based high performance (large range, high speed, high precision and accuracy)
+              nanopositioning system (HIPERNAP) under Professor <a href="https://me.engin.umich.edu/people/faculty/shorya-awtar/">Shorya Awtar</a> at the <a href="https://psdl.engin.umich.edu/">
               Precision Systems Design Laboratory</a> at the University of Michigan.
               </p>
               </div>
