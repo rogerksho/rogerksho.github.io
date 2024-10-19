@@ -18,9 +18,8 @@ function Projects() {
     return (
         <div className="projects-parent">
                 <p style={{paddingLeft: '0px'}} className="intro">
-                My passion is to to understand complex, multidisciplinary systems (i.e. consisting of mechatronic, electrical, optical, acoustic etc. subsystems) and attempting to reconstruct
-                them from scratch. Another interest of mine is automating processes and daily tasks, especially those
-                involving growing food. I am also interested in making precision motion more accessible to people outside of industry and academia.
+                One of my passions is to to understand complex, multidisciplinary systems (i.e. consisting of mechatronic, electrical, optical, acoustic etc. subsystems) and attempting to reconstruct
+                them from scratch to get hands-on experience/learning in the design and implementation of such systems.
                 </p>
 
                 <div className="project-item">
