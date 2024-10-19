@@ -15,44 +15,37 @@ function Content() {
 
     return (
         <div className="projects-parent">
-            <Accordion defaultActiveKey={['1']} alwaysOpen>
+            <Accordion defaultActiveKey={['0']} alwaysOpen>
 
 
             <Accordion.Item eventKey="1">
-            <Accordion.Header>research</Accordion.Header>
+            <Accordion.Header>Research</Accordion.Header>
                 <Accordion.Body>
                     <ResearchProjects/>
                 </Accordion.Body>
             </Accordion.Item>
 
             <Accordion.Item eventKey="4">
-            <Accordion.Header>projects</Accordion.Header>
+            <Accordion.Header>Projects</Accordion.Header>
             <Accordion.Body>
                 <Projects/>
             </Accordion.Body>
             </Accordion.Item>
 
             <Accordion.Item eventKey="2">
-                <Accordion.Header>inventions</Accordion.Header>
+                <Accordion.Header>Inventions</Accordion.Header>
                 <Accordion.Body>
                     <Patents/>
                 </Accordion.Body>
             </Accordion.Item>
 
             <Accordion.Item eventKey="3">
-                <Accordion.Header>publications</Accordion.Header>
+                <Accordion.Header>Publications</Accordion.Header>
                 <Accordion.Body>
                     <Publications/>
                 </Accordion.Body>
             </Accordion.Item>
 
-
-            <Accordion.Item eventKey="5">
-                <Accordion.Header>food</Accordion.Header>
-                <Accordion.Body>
-                    <Food />
-                </Accordion.Body>
-            </Accordion.Item>
             
             </Accordion>
         </div>
