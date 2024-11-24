@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "../styles.css";
 import face from "../img/toronto_face_cropped.JPG"
 
-import resumepdf from '../resume/Roger_Ho_CV_Oct_2024.pdf'
+import resumepdf from '../resume/Roger_Ho_CV_Nov_2024.pdf'
 import Button from 'react-bootstrap/Button';
 
 function Header() {

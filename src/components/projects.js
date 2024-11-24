@@ -31,7 +31,7 @@ function Projects() {
                             <li className="project-item-list">Closed-loop stepper motor-based linear actuation with submicron (&lt;200nm) motion resolution over +/-2.5mm range on all axes</li>
                             <li className="project-item-list">eBay-powered optical system with 3D printed kinematic mounts for fine alignment</li>
                             <li className="project-item-list">Gain-adjustable, buffered optical sensor featuring OPT101 photodiode</li>
-                            <li className="project-item-list">Micron-level optical resolution (can be improved by fine tuning optical system)</li>
+                            <li className="project-item-list">Micron-scale optical resolution (can be improved by fine tuning optical system)</li>
                         </ul>
                     </div>
                 </div>
@@ -41,7 +41,7 @@ function Projects() {
                     <div className="project-item-content">
                         <h4 className="project-item-title"><a href="https://github.com/rogerksho/acousticlevitator">ultrasonic acoustic tweezers</a></h4>
                         <ul>
-                            <li className="project-item-list">Custom VHDL code for FPGA to command phases of 50 ultrasonic transducers at &pi;/64 resolution, while concurrently receiving 
+                            <li className="project-item-list">Custom Verilog FPGA code for commanding phases of 50 ultrasonic transducers at &pi;/64 resolution, while concurrently receiving 
                                 phase commands from an ESP8266 microcontroller over SPI.</li>
                             <li className="project-item-list">C++ library to compute phases and facilitate communications between the FPGA and microcontroller.</li>
                             <li className="project-item-list">Custom PCB in designed in KiCAD; Hand soldered SMD components.</li>
