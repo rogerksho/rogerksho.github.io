@@ -31,7 +31,7 @@ function Header() {
               that have societally relevant, immediate, practical applications.
               </p>
               <p className="intro">
-              I currently work full-time as a Design Engineer at a stealth-mode robotics startup. During my time at the university, I mainly worked on the design and testing of a flexure-based high-performance (large range, high speed, high precision and accuracy)
+              I currently work full-time as a Design Engineer at a stealth-mode robotics startup where I lead the development of cable-driven miniature manipulators for various applications. During my time at the university, I mainly worked on the design and testing of a flexure-based high-performance (large range, high speed, high precision and accuracy)
               nanopositioning system (HIPERNAP) under Professor <a href="https://me.engin.umich.edu/people/faculty/shorya-awtar/">Shorya Awtar</a> at the <a href="https://psdl.engin.umich.edu/">
               Precision Systems Design Laboratory</a>.
               </p>
