@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "71377d8ddf0d5ac9060b6f20a7d71dab",
+    "revision": "fdaa00d121880b8f702eb8e62e74db76",
     "url": "/index.html"
   },
   {
-    "revision": "3fb71b73fd4361f2b51f",
+    "revision": "b4c007d353b1f9822937",
     "url": "/static/css/main.a58b7479.chunk.css"
   },
   {
-    "revision": "a06406e36d0cb917a9bc",
-    "url": "/static/js/2.f8353139.chunk.js"
+    "revision": "e386eb1604c48492abd1",
+    "url": "/static/js/2.9f6e6714.chunk.js"
   },
   {
     "revision": "4dd206dec5ff825e678a",
     "url": "/static/js/3.2ebb6cf0.chunk.js"
   },
   {
-    "revision": "3fb71b73fd4361f2b51f",
-    "url": "/static/js/main.00b0f13d.chunk.js"
+    "revision": "b4c007d353b1f9822937",
+    "url": "/static/js/main.cca1b90c.chunk.js"
   },
   {
     "revision": "7540571c425f2fb37175",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Bitcoin.799363e0.png"
   },
   {
-    "revision": "0a307ce6279f2c1bf45a9ca73d9d2dcb",
-    "url": "/static/media/RogerCVDec2023.0a307ce6.pdf"
+    "revision": "4fe429415164b7c03d10a88195a6a9cc",
+    "url": "/static/media/RogerHoCV.4fe42941.pdf"
   },
   {
     "revision": "c24c776f7cbf0ac2da268610b74d721a",
