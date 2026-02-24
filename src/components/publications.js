@@ -6,8 +6,11 @@ function Publications() {
     return (
         <div className="projects-parent">
             <ol type="1">
-            <li>Radgolchin M., Radkte D., Rath S., <b>Ho R.</b>, Awtar, S., 2024, “Experimental Characterization of a Sandwich Double Parallelogram Flexure Mechanism", planned for Nov. 2024 submission to <i>Precision Engineering</i></li>
-            <li>Radgolchin M., Rath S., <b>Ho R.</b>, Ridings C., Awtar, S., 2025, “A New XY Flexure Mechanism Architecture with In-Plane and Out-of-Plane Interconnects: Part 1 - Design" planned for Jan. 2025 submission to <i>Precision Engineering</i></li>
+            <li>M. Radgolchin, D. Radtke, S. Rath, <b>R. Ho</b>, and S. Awtar,
+"Experimental characterization of a
+sandwich double parallelogram flexure mechanism,
+" Precision Engineering, vol. 99, pp. 643-657,
+May 2026, doi: 10.1016/j.precisioneng.2026.02.002.</li>
             </ol>
         </div>
         

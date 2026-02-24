@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "../styles.css";
-import hipernap_gif from "../img/KLA_Logo.jpg"
+import hipernap_gif from "../img/hipernap.gif"
 import microfluidic from "../img/microfluidics.png"
 import battery from "../img/battery.png"
 import placeholder_pic from "../img/placeholder.jpeg"

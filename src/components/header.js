@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "../styles.css";
 import face from "../img/toronto_face_cropped.JPG"
 
-import resumepdf from '../resume/Roger_Ho_CV_Nov_2024.pdf'
+import resumepdf from '../resume/RogerHoCV.pdf'
 import Button from 'react-bootstrap/Button';
 
 function Header() {
@@ -10,7 +10,7 @@ function Header() {
         <div className="header">
 
           <h1 className="name">Roger Ho</h1>
-          <p style={{textAlign: 'center', paddingBottom: '1.5%'}}>rogerho [at] umich.edu | <a href="https://www.linkedin.com/in/roger-ho-576548199/">LinkedIn</a> | <a href="https://github.com/rogerksho">Github</a></p>
+          <p style={{textAlign: 'center', paddingBottom: '1.5%'}}>rogerho [at] andrew.cmu.edu | <a href="https://www.linkedin.com/in/roger-ho-576548199/">LinkedIn</a> | <a href="https://github.com/rogerksho">Github</a></p>
           <div class="flex-wrap" className="intro-div">
 
           <div className="face-resume">
@@ -25,15 +25,20 @@ function Header() {
 
 
             <div className="intro-paragraph-div">
-              <p className="intro">I am a recent graduate of the University of Michigan, where I
-              majored in Mechanical Engineering and minored in Computer Science. My passions and interests revolve around all things precision, including precision machine design, 
-              levitators/tweezers, precise manipulators, and just about any shiny metallic thing that is highly precise and/or accurate. In general, I like to work on technologies that 
-              that have societally relevant, immediate, practical applications.
+              <p className="intro">I am currently a PhD student at Carnegie Mellon University working in the Surgical Mechatronics Lab under Prof. Cameron Riviere. 
+                While much of ongoing research in robotics aims to replicate human performance, I aim to design robots that exceed human performance in terms of precision and 
+                optimality. My research interests broadly include optimal control, active learning, and (autonomous) precise manipulation of small, compliant objects.
               </p>
+
               <p className="intro">
-              I currently work full-time as a Design Engineer at a stealth-mode robotics startup where I lead the development of cable-driven miniature manipulators for various applications. During my time at the university, I mainly worked on the design and testing of a flexure-based high-performance (large range, high speed, high precision and accuracy)
-              nanopositioning system (HIPERNAP) under Professor <a href="https://me.engin.umich.edu/people/faculty/shorya-awtar/">Shorya Awtar</a> at the <a href="https://psdl.engin.umich.edu/">
+              Previously, I did my undergrad at the University of Michigan where I majoring in mechanical engineering and minoring in computer science. During my time at UMich, I also 
+              worked on the design and testing of a flexure-based high performance (large range, high speed, high precision and accuracy) nanopositioning system (HIPERNAP) under  
+              Professor <a href="https://me.engin.umich.edu/people/faculty/shorya-awtar/">Shorya Awtar</a> at the <a href="https://psdl.engin.umich.edu/">
               Precision Systems Design Laboratory</a>.
+              </p>
+
+              <p className="intro">
+                Between my undergrad and PhD, I also spent two years developing affordable robotic surgical devices at a stealth-mode startup as mechatronics lead.
               </p>
               </div>
 
