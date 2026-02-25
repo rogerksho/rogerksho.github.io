@@ -25,7 +25,7 @@ function Header() {
 
 
             <div className="intro-paragraph-div">
-              <p className="intro">I am currently a PhD student at Carnegie Mellon University working in the Surgical Mechatronics Lab under Prof. Cameron Riviere. 
+              <p className="intro">I am currently a PhD student at Carnegie Mellon University doing research in the Surgical Mechatronics Lab of the Robotics Institute (RI) under Prof. Cameron Riviere. 
                 While much of ongoing research in robotics aims to replicate human performance, I aim to design robots that exceed human performance in terms of precision and 
                 optimality. My research interests broadly include optimal control, active learning, and (autonomous) precise manipulation of small, compliant objects.
               </p>
