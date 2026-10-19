@@ -20,7 +20,7 @@ function Projects() {
                         <h4 className="project-item-title">handheld robot for micromanipulation</h4>
                         <h6 className="project-item-title"><i>Carnegie Mellon University, Prof. Cameron Riviere, 2025-present</i></h6>
                         <ul>
-                            <li className="project-item-list">Leading the full-stack development of a handheld hexapod for micromanipulation to achieve positioning accuracy beyond human limits in applications like microsurgery and biological research.</li>
+                            <li className="project-item-list">Leading the full-stack development of a handheld hexapod for micromanipulation to achieve micron-level positioning accuracy beyond human limits in applications like microsurgery and biological research.</li>
                             <li className="project-item-list">Investigating safety and guidance under shared autonomy with control barrier functions and optimal control.</li>
                         </ul>
                     </div>
