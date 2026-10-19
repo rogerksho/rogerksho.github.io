@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import "../styles.css";
 import hipernap_gif from "../img/hipernap.gif"
+import micron_pic from "../img/micron_cropped.png"
 import microfluidic from "../img/microfluidics.png"
 import battery from "../img/battery.png"
 import placeholder_pic from "../img/placeholder.jpeg"
@@ -10,10 +11,20 @@ function Projects() {
     return (
         <div className="projects-parent">
                 <p style={{paddingLeft: '0px'}} className="intro">
-                My research experience is mainly in precision mechatronic system design and flexure mechanisms - I enjoy all facets of machine design including
-                 mechanical design, electronic design, and control design. I also have brief experiences with battery research (also at the University of Michigan) 
-                and microfluidics (at the University of Hong Kong).
+                My research experience is mainly in precision mechatronic system design and robotics. In general, I am interested in realizing machines and robots that extend the capabilities of mankind.
                 </p>
+
+                <div className="project-item">
+                    <img className="project-gif-fitted" src={micron_pic}/>
+                    <div className="project-item-content">
+                        <h4 className="project-item-title">handheld robot for micromanipulation</h4>
+                        <h6 className="project-item-title"><i>Carnegie Mellon University, Prof. Cameron Riviere, 2025-present</i></h6>
+                        <ul>
+                            <li className="project-item-list">Leading the full-stack development of a handheld hexapod for micromanipulation to achieve positioning accuracy beyond human limits in applications like microsurgery and biological research.</li>
+                            <li className="project-item-list">Investigating safety and guidance under shared autonomy with control barrier functions and optimal control.</li>
+                        </ul>
+                    </div>
+                </div>
 
                 <div className="project-item">
                     <img className="project-gif-fitted" src={hipernap_gif}/>
