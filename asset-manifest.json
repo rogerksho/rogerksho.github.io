@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.20cdab93.chunk.css",
-    "main.js": "/static/js/main.b5c7ae82.chunk.js",
-    "main.js.map": "/static/js/main.b5c7ae82.chunk.js.map",
+    "main.js": "/static/js/main.505e0c8c.chunk.js",
+    "main.js.map": "/static/js/main.505e0c8c.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.94c5bc57.js",
     "runtime~main.js.map": "/static/js/runtime~main.94c5bc57.js.map",
     "static/js/2.b59fdd9d.chunk.js": "/static/js/2.b59fdd9d.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.cf2aeaea.chunk.js": "/static/js/3.cf2aeaea.chunk.js",
     "static/js/3.cf2aeaea.chunk.js.map": "/static/js/3.cf2aeaea.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cbaa86687f15a17716a05574bdf44d33.js": "/precache-manifest.cbaa86687f15a17716a05574bdf44d33.js",
+    "precache-manifest.03b4ac300a54132229a3124ad4f8de30.js": "/precache-manifest.03b4ac300a54132229a3124ad4f8de30.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.20cdab93.chunk.css.map": "/static/css/main.20cdab93.chunk.css.map",
     "static/media/Bitcoin.png": "/static/media/Bitcoin.799363e0.png",
